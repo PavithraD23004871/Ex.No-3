@@ -76,7 +76,7 @@ void yyerror(const char *s) {
 }
 ```
 # OUTPUT
-![image](https://github.com/user-attachments/assets/adb47086-369e-4aa6-bae5-5bae56a7cd33)
+![Screenshot from 2024-10-17 14-08-36](https://github.com/user-attachments/assets/4501d0f4-13db-46af-a8a1-3addc5b0b377)
 
 # RESULT
 A YACC program to recognize a valid arithmetic expression that uses operator +,-,* and / is executed successfully and the output is verified.
